@@ -1,0 +1,65 @@
+{
+    "gerechten": [
+      {
+        "naam": "Couscous gegrilde groenten",
+        "ingredienten": [
+          { "naam": "Volkoren couscous", "hoeveelheid": 140 },
+          { "naam": "Courgette", "hoeveelheid": 1 },
+          { "naam": "Paprika", "hoeveelheid": 1 },
+          { "naam": "Feta", "hoeveelheid": 1 },
+          { "naam": "Pistachenoten", "hoeveelheid": 60 }
+        ]
+      },
+      {
+        "naam": "Bietensalade met feta",
+        "ingredienten": [
+          { "naam": "Spinazie", "hoeveelheid": 200 },
+          { "naam": "Gekookte bieten", "hoeveelheid": 250 },
+          { "naam": "Feta", "hoeveelheid": 1 },
+          { "naam": "Pistachenoten", "hoeveelheid": 60 }
+        ]
+      },
+      {
+        "naam": "Traybake kip za'atar",
+        "ingredienten": [
+          { "naam": "Zoete aardappel", "hoeveelheid": 400 },
+          { "naam": "Kipblokjes", "hoeveelheid": 200 },
+          { "naam": "Feta", "hoeveelheid": 1 },
+          { "naam": "Courgette", "hoeveelheid": 1 },
+          { "naam": "Paprika", "hoeveelheid": 1 }
+        ]
+      },
+      {
+        "naam": "Gochujang noodles",
+        "ingredienten": [
+          { "naam": "Vegetarische kipstukjes", "hoeveelheid": 150 },
+          { "naam": "Eiernoodles", "hoeveelheid": 140 },
+          { "naam": "Chinese kool", "hoeveelheid": 200 },
+          { "naam": "Paprika", "hoeveelheid": 1 }
+        ]
+      },
+      {
+        "naam": "Wraps vegasnitzel",
+        "ingredienten": [
+          { "naam": "Vegetarische snitzels", "hoeveelheid": 2 },
+          { "naam": "Volkoren wraps", "hoeveelheid": 2 },
+          { "naam": "Paprika", "hoeveelheid": 1 },
+          { "naam": "Komkommer", "hoeveelheid": 1 },
+          { "naam": "Tomaat", "hoeveelheid": 1 },
+          { "naam": "Mais", "hoeveelheid": 140 }
+        ]
+      },
+      {
+        "naam": "Curry",
+        "ingredienten": [
+          { "naam": "Vegetarische kipstukjes", "hoeveelheid": 150 },
+          { "naam": "Zilvervliesrijst", "hoeveelheid": 140 },
+          { "naam": "Paprika", "hoeveelheid": 1 },
+          { "naam": "Bloemkoolroosjes", "hoeveelheid": 200 },
+          { "naam": "Kokosmelk", "hoeveelheid": 100 },
+          { "naam": "Currypasta", "hoeveelheid": 0.5 }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,52 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    font-family: sans-serif;
+    padding: 2rem;
+    background-color: #FFA400;
+}
+
+.list {
+    background-color: #F2E9EA;
+    margin: auto;
+    width: 75%;
+    height: 75%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-bottom: 2rem;
+}
+
+fieldset {
+    margin-bottom: 1rem;
+    outline: none;
+    border: none;
+}
+
+#genereer-lijst {
+    margin-left: 1rem;
+}
+
+#gerechten-lijst label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+#boodschappenlijst {
+    margin-top: 1rem;
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+#headerImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    padding: 10px;
+}
